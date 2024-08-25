@@ -9,7 +9,7 @@
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "Nitin Vishvakarma",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
