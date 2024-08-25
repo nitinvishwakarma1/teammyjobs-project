@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Jobix is a real time job listing plateform. Implemented all three modules user, recruiter and admin with the desired functionalities ..!",
+  "description": "Team MyJobs Platform is a real time job listing plateform. Implemented all three modules user, recruiter and admin with the desired functionalities ..!",
   "main": "index.js",
   "type": "module",
   "scripts": {
